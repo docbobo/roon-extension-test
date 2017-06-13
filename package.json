@@ -1,0 +1,12 @@
+{
+  "name": "roon-extension-test",
+  "version": "0.0.1",
+  "description": "Test extension to demonstrate update_state issue",
+  "main": "app.js",
+  "author": "Doc Bobo <boris@pruessmann.org> (https://blog.pruessmann.org/)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "node-roon-api": "github:roonlabs/node-roon-api",
+    "node-roon-api-volume-control": "github:roonlabs/node-roon-api-volume-control"
+  }
+}
